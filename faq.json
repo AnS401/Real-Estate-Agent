@@ -1,0 +1,28 @@
+[
+  {
+    "location": "Wakad",
+    "type": "buy",
+    "details": {
+      "1BHK": "45L - 60L",
+      "2BHK": "70L - 95L",
+      "3BHK": "95L - 1.4Cr"
+    },
+    "description": "Wakad is a fast-growing area near Hinjewadi IT park."
+  },
+  {
+    "location": "Hinjewadi",
+    "type": "buy",
+    "details": {
+      "2BHK": "65L - 90L"
+    },
+    "description": "Best for IT professionals."
+  },
+  {
+    "location": "Baner",
+    "type": "rent",
+    "details": {
+      "2BHK": "25K - 40K"
+    },
+    "description": "Premium rental area."
+  }
+]
