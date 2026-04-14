@@ -1,0 +1,362 @@
+[
+  {
+    "user_id": "user_001",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:00:00",
+        "query": "looking for 2bhk near wakad under 85L actually pune anywhere works not fixed on buying yet maybe rent first budget flexible but don’t want overpriced heard hinjewadi traffic is bad is it true ok then maybe baner side rent range there? hmm that seems high any cheaper but decent areas nearby not urgent just checking options",
+        "response": "Got it, since this is time-sensitive, I can narrow down the best available options quickly.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_002",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:01:00",
+        "query": "need flat urgently near office office in kharadi rent preferably budget around 30k but can stretch slightly actually 30k feels too much what about 25k range 2bhk possible in that? ok then 1bhk also fine fully furnished needed can decide this week",
+        "response": "Got it, since this is time-sensitive, I can narrow down the best available options quickly.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_003",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:02:00",
+        "query": "planning investment property pune not sure location yet want good returns budget close to 1cr maybe lower if possible should I go for resale or new also thinking about rental income areas with IT crowd? comparing wakad and kharadi which one grows faster",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_004",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:03:00",
+        "query": "just browsing houses not decided anything maybe next year purchase budget unclear right now just want idea of pricing 2bhk mostly location flexible somewhere peaceful not too far from city no hurry at all",
+        "response": "Got it, since this is time-sensitive, I can narrow down the best available options quickly.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_005",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:04:00",
+        "query": "looking for luxury apartment pune west side budget around 2cr actually depends on value don’t want to overspend what do I get in 1.5cr 3bhk preferred amenities important clubhouse gym etc not final yet",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_006",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:05:00",
+        "query": "rent vs buy confused currently staying in baner rent is getting expensive maybe buying better but EMI feels risky budget around 70L maybe 60 if possible any good projects 2bhk needed still thinking",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_007",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:06:00",
+        "query": "cheap flats near IT park hinjewadi preferably rent or buy both ok budget low around 20k rent maybe increase little 2bhk needed ok 1bhk also fine don’t need luxury basic is enough",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_008",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:07:00",
+        "query": "buying property pune wakad or pimple saudagar budget 90L can stretch if worth it 2bhk mostly resale ok new also fine which has better resale future appreciation matters not urgent decision",
+        "response": "Got it, since this is time-sensitive, I can narrow down the best available options quickly.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_009",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:08:00",
+        "query": "need rental flat immediately aundh area budget 35k feels high though want something cheaper maybe 28k range 2bhk needed semi furnished ok good locality important planning visit soon",
+        "response": "Got it, since this is time-sensitive, I can narrow down the best available options quickly.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_010",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:09:00",
+        "query": "want to invest small amount under 50L is that realistic any areas in pune outskirts also fine growth potential needed rental income optional 1bhk works don’t want risky project just exploring now",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "low"
+      }
+    ]
+  },
+  {
+    "user_id": "user_011",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:10:00",
+        "query": "3bhk options baner budget around 1.2cr maybe slightly lower what about 1cr is that possible resale maybe new project also fine family use good schools nearby not in hurry",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_012",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:11:00",
+        "query": "confused between cities pune or bangalore for investment budget 80L maybe reduce to 70 rental yield important IT areas preferred how is wakad compare with whitefield still researching",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_013",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:12:00",
+        "query": "looking for compact home 1bhk mostly budget 40L maybe 45 max pune outskirts fine connectivity important not too crowded future resale value parking needed no urgency",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_014",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:13:00",
+        "query": "shifting to pune soon job in hinjewadi rent first budget 25k feels tight can go 28k 2bhk needed sharing option maybe furnished preferred move next month",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_015",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:14:00",
+        "query": "exploring premium projects baner side budget 1.5cr depends on features want modern layout 3bhk needed amenities important builder reputation matters not finalized just comparing",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_016",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:15:00",
+        "query": "small investment plan 60L budget maybe 55 want rental income location near IT wakad maybe hinjewadi also fine 2bhk preferred low maintenance needed not urgent",
+        "response": "Got it, since this is time-sensitive, I can narrow down the best available options quickly.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_017",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:16:00",
+        "query": "resale flat pune cheaper than new budget 75L maybe lower 2bhk required decent society location flexible no construction delay ready possession needed quick decision possible",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_018",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:17:00",
+        "query": "want house for parents peaceful area not crowded budget 65L maybe stretch slightly 2bhk needed ground floor preferred safety important hospitals nearby not urgent",
+        "response": "Got it, since this is time-sensitive, I can narrow down the best available options quickly.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_019",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:18:00",
+        "query": "planning long term investment 5-10 years horizon budget 1cr maybe reduce growth area needed infrastructure coming up wakad or kharadi which better rental optional analyzing options",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_020",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:19:00",
+        "query": "looking for studio apartment budget low under 30L is it possible outskirts ok rental potential single occupancy low maintenance resale later just checking",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_021",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:20:00",
+        "query": "need flat near college baner area rent basis budget 20k maybe 22 1bhk needed furnished preferred safety important sharing possible shifting soon",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_022",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:21:00",
+        "query": "confused about buying now market high should wait budget 80L maybe reduce 2bhk needed location flexible future growth matters EMI concern not sure",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_023",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:22:00",
+        "query": "premium villa options pune outskirts budget 2.5cr maybe flexible want spacious property family use gated community security needed amenities optional long term stay",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_024",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:23:00",
+        "query": "affordable housing options budget 45L maybe 50 1 or 2bhk location flexible not too far basic amenities ok resale later safe locality exploring",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_025",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:24:00",
+        "query": "want rental income property budget 90L maybe lower 2bhk needed near IT hubs occupancy high maintenance low wakad maybe hinjewadi also fine thinking",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_026",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:25:00",
+        "query": "urgent requirement flat buying soon budget 1cr maybe stretch 3bhk needed ready possession location pune west family use good amenities decision soon",
+        "response": "Got it, since this is time-sensitive, I can narrow down the best available options quickly.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_027",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:26:00",
+        "query": "want cheapest options pune outskirts budget 35L maybe 40 1bhk needed future growth not urgent rental optional low cost priority exploring",
+        "response": "Got it, since this is time-sensitive, I can narrow down the best available options quickly.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_028",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:27:00",
+        "query": "shifting with family need 3bhk budget 1.3cr maybe reduce good schools nearby safe locality baner or aundh compare both commute important planning",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_029",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:28:00",
+        "query": "small rental budget 18k max maybe 20 1bhk needed near hinjewadi sharing possible furnished preferred safe area not urgent exploring",
+        "response": "Got it, since this is time-sensitive, I can narrow down the best available options quickly.",
+        "intent": "high"
+      }
+    ]
+  },
+  {
+    "user_id": "user_030",
+    "conversation": [
+      {
+        "turn": 1,
+        "timestamp": "2026-04-14T10:29:00",
+        "query": "want investment advice pune market budget 70L maybe 60 buy or rent confusion 2bhk needed future resale rental income wakad or baner still deciding",
+        "response": "Based on that budget, there are a few good options that balance pricing and location well.",
+        "intent": "high"
+      }
+    ]
+  }
+]
